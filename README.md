@@ -32,4 +32,5 @@ npm run server-node
 ```
 visit http://localhost:8081 in your browser.
 
-# Novia.github.io
+# novia.github.io
+noviapulungan.github.io/index.html
